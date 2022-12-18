@@ -11,10 +11,11 @@
   8. Aladdin (New Amsterdam Theatre)
   9. Waitress (Barrymore Theatre)
   10. To Kill a Mocking Bird (Shubert Theatre)
-  11. Frozen (Theatre Royal Drury Lane)
-  12. Jersey Boys (Trafalgar Theatre)
-  13. Pretty Woman (Savoy Theatre)
-  14. Mamma Mia (New Theatre Oxford).
+  11. Mrs. Doubtfire (Sondheim Theatre)
+  12. Frozen (Theatre Royal Drury Lane)
+  13. Jersey Boys (Trafalgar Theatre)
+  14. Pretty Woman (Savoy Theatre)
+  15. Mamma Mia (New Theatre Oxford).
 - 🎶 My favourite singers are Taylor Swift, Beyonce, and Chloe Moriondo. My favourite actresses are Natalie Portman, Jodie Comer, and Yuki Amami, and favourite actors are David Tennant and Timothee Chalamet (probably because Tea and Chai are my favourite drink). 
 - 🌱 I’m currently learning data science, discrete math, computational linear algebra, and computer science (C++, C#, Go, Python, SQL).
 - 💞️ I’m looking to collaborate on solving math or computer science problems.
