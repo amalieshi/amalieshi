@@ -14,6 +14,7 @@
   11. Jersey Boys (Trafalgar Theatre)
   12. Pretty Woman (Savoy Theatre)
   13. Mamma Mia (New Theatre Oxford).
+Out of all of these musicals, my favourite is still the Lion King, which I watched it on my birthday in 2021. 
 - 🎶 My favourite singers are Taylor Swift and Chloe Moriondo, favourite actresses are Natalie Portman, Jodie Comer, and Yuki Amami, and favourite actors are David Tennant and Timothee Chalamet (probably because Tea and Chai are my favourite drink). 
 - 🌱 I’m currently learning data science, discrete math, computational linear algebra, and computer science (C++, C#, Go, Python, SQL).
 - 💞️ I’m looking to collaborate on solving math or computer science problems.
