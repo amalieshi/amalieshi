@@ -17,10 +17,12 @@
   14. Lackawanna Blues (Samuel Friedman Theatre)
   15. To Kill a Mocking Bird (Shubert Theatre)
   16. Mrs. Doubtfire (Sondheim Theatre)
-  17. Frozen (Theatre Royal Drury Lane)
-  18. Jersey Boys (Trafalgar Theatre)
-  19. Pretty Woman (Savoy Theatre)
-  20. Mamma Mia (New Theatre Oxford).
+17. the Kite Runner (the Hayes Theatre)
+18. the Magic Flute (the Met Opera)
+  19. Frozen (Theatre Royal Drury Lane)
+  20. Jersey Boys (Trafalgar Theatre)
+  21. Pretty Woman (Savoy Theatre)
+  22. Mamma Mia (New Theatre Oxford).
 - 🎶 My favourite singers are Taylor Swift, Beyonce, Chloe Moriondo, Barbra Streisand, Celine Dion, Mariah Carey, Cher, Abba, and so many more. If I have to pick my favourite song, I would say it is Hero by Mariah Carey and it is also the song that my mother loves too. My favourite actresses are Natalie Portman, Jodie Comer, and Yuki Amami, and favourite actors are David Tennant and Timothee Chalamet (probably because Tea and Chai are my favourite drink). 
 - 🐬 I am a spontaneous and free-spirited person. I like to explore different topics. 
 - 🌱 I’m currently learning data science, discrete math, computational linear algebra, and computer science (C++, C#, Go, Python, SQL).
