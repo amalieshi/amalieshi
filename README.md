@@ -27,7 +27,7 @@
   21. Pretty Woman (Savoy Theatre)
   22. Mamma Mia (New Theatre Oxford).
   23. A Christmas Carols (The Bridge Theatre)
-- My favourite singers are Taylor Swift, Beyonce, Chloe Moriondo, Barbra Streisand, Celine Dion, Mariah Carey, Cher, Abba, and so many more. If I have to pick my favourite song, I would say it is Hero by Mariah Carey and it is also the song that my mother loves too. My favourite actresses are Natalie Portman, Jodie Comer, and Yuki Amami, and favourite actors are David Tennant and Timothee Chalamet (probably because Tea and Chai are my favourite drink). 
+- My favorite musicians are ZAZ, Stromae, Joyce Jonathan, Alizee, Clara Luciani, and Helene Rolles. I used to enjoy the music from Taylor Swift, Beyonce, Chloe Moriondo, Barbra Streisand, Celine Dion, Mariah Carey, Cher, and Abba. If I have to pick my favourite song, I would say it is Hero by Mariah Carey and it is also the song that my mother loves too. My favourite actresses are Natalie Portman, Jodie Comer, and Yuki Amami, and favourite actors are David Tennant and Timothee Chalamet (probably because Tea and Chai are my favourite drink). 
 - I am a spontaneous and free-spirited person. I like to explore different topics. 
 - I’m currently learning data science, discrete math, computational linear algebra, and computer science (C++, C#, Go, Python, SQL).
 - I’m looking to collaborate on solving math or computer science problems.
