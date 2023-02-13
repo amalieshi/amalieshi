@@ -6,7 +6,7 @@
 - I am now living in the very original Oxford in the United Kingdom, and I enjoy getting to know all the great British writers - namely, Shakespeare the bard, the Shelleys, CS Lewis, JRR Tolkien, Virginia Woolf, Conan Doyle, Agatha Christine, and many more. Oxford is the city of dreaming spire, and I spend most of my time realizing my dream here. 
 - My favourite dessert is the Turkish delight (which I heard of in Narnia and it is so delicious that I don't blame Edmund for betraying his family and Ashlan), gourmet cheese, and soft baked biscuits. My favourite TV shows are the Unbreakable Kimmy Schmidt, 30 Rock, and Doctor Who. I am a huge fan of Tina Fey. Her character Liz Lemon in 30 Rock embodies the kind of role model that I aspire to be: sassy, funny, intelligent, nerdy, and hardworking. If I ever met her, I would be so starstruck. 
 - I was quite into K-pop and J-pop in school, even though I had no idea what they were singing about. 
-- I used to enjoy musicals and theatres. From the East Village to the West End, I have seen a lot of theatre production. C'est magnifique!
+- I used to enjoy musicals and theatres. From the East Village to the West End, I have seen a lot of theatre productions. C'est magnifique!
   1. Sounds of Music 
   2. Cats (Shenzhen Baoli Opera House)
   3. Phantom of the Opera (Fox Theatre in Atlanta)
