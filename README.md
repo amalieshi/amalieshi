@@ -32,9 +32,10 @@
 
 ----------------------------------------------------------------------------------
 GitHub Rule
-- Use PEP8 guide to name the repository, file, and folder. If it is not a document, use snake case. 
-- Use a minimal number of repositories. If possible, don't exceed 10 total repositories.
-- Prioritize documentation and readability. 
+- Utilizing CI/CD and build pipelines to ensure good in good out
+- TDD 
+- Agile
+- All things Pytest 
 
 
 <!---
