@@ -7,8 +7,8 @@
 - My catchphrase is "c'est parti".
 
 ## Hobby
- I like language learning and I am learning French and Japanese during my free time. I am hoping to travel to both countries when I can speak both languages fluently so I don't have any travel plan right now. 
-- I’m interested in reading British literature and solving puzzles. 
+ I’m interested in reading British literature and solving puzzles. I like language learning and I am learning French and Japanese during my free time. I am hoping to travel to both countries when I can speak both languages fluently.
+
 
 ## A Short Bio
 I grew up in Shenzhen, China. It is a city adjacent to Hong Kong. I later moved to the United States to complete my higher education. Surprisingly, I follow the alphabet in the city where I live, starting off with Atlanta, Georgia, and then Baltimore, Maryland. I love visiting the Smithsonian museums in Washington DC while living in Baltimore. I visited the British Embassy in Washington DC during one of the European Embassy Open Day pre-COVID and pre-Brexit. Out of all the European Embassies, I like the Great Britian the most because of the beautiful architecture and the well-tended garden. I also quite enjoy the Apple strudel from the Austria Embassy. I enjoyed the Fish and Chip and the Fairy Cake so much that I have decided to move to the UK.
