@@ -1,3 +1,5 @@
+# Life is beautiful. La vie est belle. 
+
 - Hi, I’m @amalieshi. The name Amalie is picked by myself. It is a German variant of the name Amalia. It is derived from the root word 'amal', meaning 'work' in German, 'hope' in Arabic and 'water' in Scots-Gaelic. I actually took the name "Amalie" as a blend of my favorite French movie "Amelie" and my favorite Japanese Actress "Yuki Amami".
 - Like software product that gets updated constantly, I am updating my ideas quite constantly. My interests and hobbies are evolving steadily as time goes by. This description is just a snapshot of who I was at a certain time point as I was writing this article. I enjoy having a creative space to express who I am. My past has led me to who I am and I am not the person who I was. I take pride for having an open and curious mindset. The best things in life are unexpected. 
 - My catchphrase is "c'est parti".
