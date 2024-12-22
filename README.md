@@ -30,6 +30,30 @@ I now live in Oxford, United Kingdom, where I enjoy immersing myself in the work
 
 ---
 
+## Professional Experience
+
+### Software Engineer at Adaptix Ltd., Engineering
+*October 2022 - Present*
+
+- Developed over 15 automation tools and scripts in Python to improve the quality and performance of medical imaging systems, demonstrating strong technical skills in software development and automation.
+- Authored comprehensive test reports to interdisciplinary teams, facilitating the resolution of more than 45 software bugs and hardware issues. This involved detailed analysis, troubleshooting, and collaboration with various stakeholders to ensure high-quality outcomes.
+- Verified and validated design requirements for veterinary and orthopedic flat panel x-ray diagnostic systems, ensuring compliance with IEC 602304 and other relevant regulatory standards. This included rigorous testing, documentation, and adherence to industry best practices.
+
+### Software Engineer at Informetric Systems Inc., Engineering
+*February 2021 - August 2022*
+
+- Gathered user requirements to map existing or new manufacturing processes to the associated process automation and enterprise-level systems, configured electronic batch records (EBRs) on InfoBatch, and developed comprehensive qualification documentation.
+- Implemented the development and validation of five software updates and hotfixes for InfoBatch, and managed the software product launch for InfoLog. This included setting up testing environments on virtual machines, developing software installation packages using Advanced Installer, writing new software release tests, and performing formal test procedures.
+- Assisted customers with complex technical issues, such as HTML report format misalignments, delayed report uploads to the repository, and printer problems, showcasing excellent problem-solving and customer support skills.
+
+### Pharmaceutical Engineer at Aphena Pharma Solutions, Engineering
+*January 2020 - February 2021*
+
+- Developed and authored 30+ protocols and reports. Documented the commissioning of 8+ automated systems (refrigerators, cartoning machine, filling, capping, and labeling machine, blending tanks, water purification system, and serialization machine) through the development and field execution of IQOQ protocols and process validation of the blending, packaging, filling, serialization, and cleaning processes.
+- Designed 5+ processes and manufactured lab-scale commercial products to optimize processes using tech transfer packages, completed corrective actions and preventive actions (CAPA) in compliance with cGMP practice, set up preventative maintenance schedules for manufacturing equipment, and proposed solutions to inventory control and management issues for cost reduction.
+
+---
+
 ## Music and Movies
 
 ### Favorite Musicians
@@ -83,10 +107,10 @@ I now live in Oxford, United Kingdom, where I enjoy immersing myself in the work
 
 ---
 
-## How to Reach Me
-
-You can reach me at [hshi16@alumni.jh.edu](mailto:hshi16@alumni.jh.edu).
+In summary, I am a well-rounded and creative engineer with a passion for continuous learning and exploration. My diverse interests and experiences reflect my open and curious mindset, making me a dynamic individual both professionally and personally. I look forward to connecting with like-minded individuals and exploring new opportunities.
 
 ---
 
-In summary, I am a well-rounded and creative engineer with a passion for continuous learning and exploration. My diverse interests and experiences reflect my open and curious mindset, making me a dynamic individual both professionally and personally. I look forward to connecting with like-minded individuals and exploring new opportunities.
+## How to Reach Me
+
+You can reach me at [hshi16@alumni.jh.edu](mailto:hshi16@alumni.jh.edu).
