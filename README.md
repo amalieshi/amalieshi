@@ -24,7 +24,7 @@ Like a software product that gets updated constantly, I am continuously evolving
 
 I grew up in Shenzhen, China, a city adjacent to Hong Kong. I later moved to the United States for higher education, living in cities like Atlanta, Georgia, and Baltimore, Maryland. I loved visiting the Smithsonian museums in Washington DC and the British Embassy during the European Embassy Open Day.
 
-After graduating from two of my favorite universities, I worked at a pharmaceutical manufacturing site near Easton, Maryland. I later moved to New Jersey, working near the historic Bell Labs and living in Edison, where Thomas Edison founded his first lab. I visited Thomas Edison's research laboratories and paid tribute to Nikola Tesla at the Radio Building.
+After graduating from two of the top biomedical engineering programs in the United States, I worked at a pharmaceutical manufacturing site near Easton, Maryland. I later moved to New Jersey, working near the historic Bell Labs and living in Edison, where Thomas Edison founded his first lab. I visited Thomas Edison's research laboratories and paid tribute to Nikola Tesla at the Radio Building.
 
 I now live in Oxford, United Kingdom, where I enjoy immersing myself in the works of great British writers like Shakespeare, the Shelleys, CS Lewis, JRR Tolkien, Virginia Woolf, Conan Doyle, and Agatha Christie. Oxford, the city of dreaming spires, is where I spend most of my time realizing my dreams.
 
