@@ -40,12 +40,11 @@ I now live in Oxford, United Kingdom, where I enjoy immersing myself in the work
 - Clara Luciani
 - Hélène Rollès
 
-### Favorite Actresses
-- Emma Stone
-- Scarlett Johansson
-- Natalie Portman
-- Jodie Comer
-- Yuki Amami
+### Favorite Movies
+- Blue Jasmine (2013)
+- Legally Blonde (2001)
+- Gone with the Wind (1939)
+- La La Land (2016)
 
 ### Theatre Productions I've Enjoyed
 - **Sounds of Music** (Shenzhen Baoli Opera House)
