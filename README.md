@@ -1,8 +1,6 @@
 # Amalie Shi
 
-**Life is beautiful. La vie est belle. 生活如此美丽。人生は素晴らしい**
-
-Hi, I’m @amalieshi. 👩🏽‍💻
+Hi, I’m @amalieshi. 
 
 ---
 
@@ -10,17 +8,15 @@ Hi, I’m @amalieshi. 👩🏽‍💻
 
 Amalie is a German variant of the name Amalia. It is derived from the root word 'amal', meaning 'work' in German, 'hope' in Arabic, and 'water' in Scots-Gaelic.
 
-Like a software product that gets updated constantly, I am continuously evolving my ideas. I am a spontaneous and free-spirited person who loves to explore different topics. Currently, I am learning data science, discrete math, computational linear algebra, and computer science. My interests and hobbies are steadily evolving over time. This description is just a snapshot of who I am at this moment. I take pride in having an open and curious mindset. The best things in life are unexpected.
-
-My catchphrase is "c'est parti".
+Like a software product that gets updated constantly, I am continuously evolving my ideas. I am a spontaneous and free-spirited person who loves to explore different topics. Currently, I am learning data science, discrete math, computational linear algebra, and computer science. My interests and hobbies have steadily evolved over time. This description is just a snapshot of who I am at this moment. I take pride in having an open and curious mindset. The best things in life are unexpected.
 
 ---
 
 ## Hobbies
 
 - **Reading**: I enjoy British literature and solving puzzles.
-- **Language Learning**: I am learning French and Japanese in my free time, with hopes of traveling to both countries once I am fluent.
-- **Travel**: I have a passion for exploring new places and cultures.
+- **Language Learning**: I am learning French in my free time, hoping to travel there once I am fluent.
+- **Travel**: I am passionate about exploring new places and cultures.
 
 ---
 
@@ -77,6 +73,14 @@ I now live in Oxford, United Kingdom, where I enjoy immersing myself in the work
 - **A Christmas Carol** (The Bridge Theatre, London, UK)
 - **Ain't Too Proud** (Prince Edward Theatre, London, UK)
 - **Six** (The Vaudeville Theatre, London, UK)
+- **A Strange Loop** (The Barbican Theatre, London, UK)
+- **Splitting Image** (Phoneix Theatre, London, UK)
+- **Hamnet** (Garrick Theatre, London, UK)
+- **The Play That Goes Wrong** (Duchess Theatre, London, UK)
+- **Back to the Future: The Musical** (Adelphi Theatre, London, UK)
+- **Witness for the Prosecution** (London County Hall, London, UK)
+- **Sister Act** (Dominion Theatre, London, UK)
+- **Hadestown** (Lyric Theatre, London, UK)
 
 ---
 
