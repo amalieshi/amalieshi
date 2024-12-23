@@ -62,6 +62,7 @@ I now live in Oxford, United Kingdom, where I enjoy immersing myself in the work
 - Clara Luciani
 - Taylor Swift
 - Beyoncé
+- Celion Dion
 
 ### Favorite Movies
 - Blue Jasmine (2013)
@@ -104,7 +105,7 @@ In my spare time, I enjoyed going to the theatres to see musicals, plays and ope
 - **Witness for the Prosecution** (London County Hall, London, UK)
 - **Sister Act** (Dominion Theatre, London, UK)
 - **Hadestown** (Lyric Theatre, London, UK)
-
+I really enjoyed French musicals. My favorite so far is **Le Rouge et le Noir – L'opéra rock** and **Notre Dame de Paris**.
 ---
 
 In summary, I am a well-rounded and creative engineer with a passion for continuous learning and exploration. My diverse interests and experiences reflect my open and curious mindset, making me a dynamic individual both professionally and personally. I look forward to connecting with like-minded individuals and exploring new opportunities.
