@@ -71,7 +71,7 @@ I now live in Oxford, United Kingdom, where I enjoy immersing myself in the work
 - La La Land (2016)
 
 ### Theatre Productions I've Enjoyed
-In my spare time, I enjoyed going to the theatres to see musicals, plays and operas. These experiences enliven my life and broaden my perspectives. I really enjoyed French musicals. My favorite so far is **Le Rouge et le Noir – L'opéra rock** and **Notre Dame de Paris**. 
+In my spare time, I enjoyed going to the theatres to see musicals, plays and operas. These experiences enliven my life and broaden my perspectives. I really enjoyed French musicals. My favorite so far are **Le Rouge et le Noir – L'opéra rock** and **Notre Dame de Paris**. 
 
 Here is my 30s under 30 list:
 - **Sounds of Music** (Shenzhen Baoli Opera House)
