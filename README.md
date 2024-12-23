@@ -71,7 +71,7 @@ I now live in Oxford, United Kingdom, where I enjoy immersing myself in the work
 - La La Land (2016)
 
 ### Theatre Productions I've Enjoyed
-In my spare time, I enjoyed going to the theatres to see musicals, plays and operas. These experiences enliven my life and broaden my perspectives. Here are my 30s under 30 list (30+ of the theatre productions that I enjoyed before 30).
+In my spare time, I enjoyed going to the theatres to see musicals, plays and operas. These experiences enliven my life and broaden my perspectives. Here is my 30s under 30 list (30+ of the theatre productions that I enjoyed before 30).
 - **Sounds of Music** (Shenzhen Baoli Opera House)
 - **Cats** (Shenzhen Baoli Opera House)
 - **Phantom of the Opera** (Fox Theatre, Atlanta, GA)
