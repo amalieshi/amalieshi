@@ -71,7 +71,9 @@ I now live in Oxford, United Kingdom, where I enjoy immersing myself in the work
 - La La Land (2016)
 
 ### Theatre Productions I've Enjoyed
-In my spare time, I enjoyed going to the theatres to see musicals, plays and operas. These experiences enliven my life and broaden my perspectives. Here is my 30s under 30 list (30+ of the theatre productions that I enjoyed before 30).
+In my spare time, I enjoyed going to the theatres to see musicals, plays and operas. These experiences enliven my life and broaden my perspectives. I really enjoyed French musicals. My favorite so far is **Le Rouge et le Noir – L'opéra rock** and **Notre Dame de Paris**. 
+
+Here is my 30s under 30 list:
 - **Sounds of Music** (Shenzhen Baoli Opera House)
 - **Cats** (Shenzhen Baoli Opera House)
 - **Phantom of the Opera** (Fox Theatre, Atlanta, GA)
@@ -105,7 +107,7 @@ In my spare time, I enjoyed going to the theatres to see musicals, plays and ope
 - **Witness for the Prosecution** (London County Hall, London, UK)
 - **Sister Act** (Dominion Theatre, London, UK)
 - **Hadestown** (Lyric Theatre, London, UK)
-I really enjoyed French musicals. My favorite so far is **Le Rouge et le Noir – L'opéra rock** and **Notre Dame de Paris**.
+
 ---
 
 In summary, I am a well-rounded and creative engineer with a passion for continuous learning and exploration. My diverse interests and experiences reflect my open and curious mindset, making me a dynamic individual both professionally and personally. I look forward to connecting with like-minded individuals and exploring new opportunities.
