@@ -8,7 +8,7 @@ Hi, I’m @amalieshi.
 
 Amalie is a name that I chose myself. It is derived from the root word 'amal', meaning 'work' in German, 'hope' in Arabic, and 'water' in Scots-Gaelic.
 
-Like a software product that gets I get to update constantly, I am continuously improving and progressively updating myself. I am a analytical and creative person who loves to explore different topics. Currently, I am learning data science, project management, chemical engineering, and web development.
+Like a software product that gets I get to update constantly, I am continuously improving and progressively updating myself and my ideas. I am a analytical and creative person who loves to explore different topics. Currently, I am learning data science, project management, chemical engineering, and web development.
 
 ---
 
