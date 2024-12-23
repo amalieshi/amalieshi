@@ -58,11 +58,10 @@ I now live in Oxford, United Kingdom, where I enjoy immersing myself in the work
 
 ### Favorite Musicians
 - ZAZ
-- Stromae
 - Joyce Jonathan
-- Alizée
 - Clara Luciani
-- Hélène Rollès
+- Taylor Swift
+- Beyoncé
 
 ### Favorite Movies
 - Blue Jasmine (2013)
