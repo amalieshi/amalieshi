@@ -1,0 +1,25 @@
+From Shenzhen to Atlanta, Washington D.C., New York City, and Oxford — my engineering career spans global markets where precision meets innovation. I approach every challenge with systematic problem-solving, rigorous execution, and commitment to delivering solutions that exceed specifications.
+
+Engineering Philosophy:
+I relentlessly pursue optimal solutions through systematic analysis, empirical validation, and engineering rigor. I value precision over speed, thoroughness over shortcuts, and measurable results over theoretical perfection. Every engineering challenge demands methodical breakdown, careful analysis, and validated implementation.
+
+Academic Foundations
+M.S.E, Johns Hopkins University — Global #1 in Biomedical Engineering
+B.S., Georgia Tech — Top-tier biomedical engineering program
+Certified PMP, EIT, ISTQB Advanced Test Automation Engineer, ASQ Six Sigma Yellow Belt
+Actively pursuing PE Chemical Engineering licensure
+
+Engineering Expertise
+I engineer healthcare informatics systems, automation frameworks, and data pipelines — with demonstrated experience in DICOM cloud infrastructure and growing proficiency in AI/ML technologies. My portfolio includes designing fault-tolerant data architectures, leading multidisciplinary teams through system integrations, and delivering performance improvements with high reliability.
+
+Core Competencies
+• Design precision-engineered healthcare interoperability systems with rigorous testing
+• Lead technical teams using systematic project management, delivering on schedule and specification
+• Apply engineering analysis to decompose complex problems into measurable components
+• Execute continuous improvement through statistical process control and root cause analysis
+
+Professional Path
+Committed to advancing engineering excellence through technical contributions, open source implementations, and professional conferences. Currently pursuing senior engineering roles in software development, systems architecture, data engineering, or technical program management.
+
+Portfolio & Contact
+Website: https://amalieshi.github.io/amalie_projects
