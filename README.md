@@ -1,55 +1,62 @@
-# Amalie Shi - Software Engineer
+# Amalie Shi - Data & Software Engineer
 
-**Engineering Professional | Medical Device Systems | Process Automation | [Google Developer](https://g.dev/amalieshi)**
+**Data Engineering Professional | Pipeline Architect | Medical Device Systems | [Google Developer](https://g.dev/amalieshi)**
 
 ---
 
 ## Professional Profile
 
-Software engineer with demonstrated expertise in medical device development, process automation, and regulatory compliance. Experienced in delivering robust solutions across pharmaceutical and medical imaging systems, with a strong foundation in quality assurance and cross-functional project delivery.
+Data Engineer specializing in the design and implementation of reliable data pipelines and backend architectures for high-stakes industries (MedTech/Pharma). Expertise in architecting Python-based ETL processes, managing complex datasets (DICOM), and building robust software tools that ensure data flow and system integrity. Focused on bridging the gap between specialized domain data and scalable, modern data engineering infrastructures.
 
 ### Core Technical Competencies
 
-**Software Engineering** - Python, automation frameworks, test infrastructure  
-**Data Analysis & Analytics** - Performance optimization, system diagnostics  
-**Biomedical Engineering** - Medical device systems, regulatory compliance  
-**Process Automation** - Manufacturing systems integration, validation protocols  
-**Project Management** - Cross-functional team coordination, requirements analysis
+**Data Engineering** - ETL/ELT pipeline design, data modeling, high-throughput ingestion, and automated data movement  
+**Software Engineering** - High-performance Python, backend tool development, concurrency (Asyncio), and architectural patterns  
+**Data Infrastructure** - Containerization (Docker), CI/CD automation, and cloud-native data deployments  
+**Data Integrity & Reliability** - Systematic performance telemetry, automated data verification, and root-cause analysis for mission-critical datasets  
+**Technical Strategy** - Requirements-to-pipeline translation, cross-functional data alignment, and technical project leadership
 
 ---
 
 ## Professional Experience
 
 ### **Software Engineer, Adaptix Ltd.** | Oxford, UK *(Oct 2022 – Present)*  
-**Medical Imaging Systems Development**
-- Engineered 15+ Python-based automation tools for medical imaging performance optimization and system diagnostics
-- Delivered comprehensive test reports for cross-functional engineering teams, resolving 45+ complex software/hardware integration issues
-- Validated design requirements for veterinary and orthopedic flat-panel X-ray systems ensuring IEC 60601-1 and IEC 62304 regulatory compliance
-- Implemented systematic quality assurance processes for medical device software lifecycle management
+**Data Systems & Imaging Pipelines**
+- Developed a suite of 15+ Python-based data processing and diagnostic tools, utilizing concurrent processing to optimize system calibration data analysis workflows.
+- Engineered automated data verification pipelines for software/hardware interfaces, resolving 45+ critical data-flow issues within imaging systems.
+- Designed and maintained scalable data infrastructure ensuring high reliability and integrity for specialized veterinary and orthopedic imaging datasets.
+- Created modular data visualization and telemetry tools to monitor system performance and data throughput for cross-functional engineering teams.
 
 ### **Software Engineer, Informetric Systems Inc.** | New Jersey, USA *(Feb 2021 – Aug 2022)*  
-**Pharmaceutical Manufacturing Systems**
-- Architected process automation solutions translating user requirements into validated manufacturing system implementations
-- Successfully deployed and validated five critical software updates for InfoLog product suite with zero production downtime
-- Maintained comprehensive testing infrastructure ensuring system reliability and regulatory compliance
-- Provided technical leadership for customer integration projects, resolving complex data management and system interoperability challenges
+**Data Integration & Manufacturing Pipelines**
+- Designed and deployed end-to-end data automation solutions for pharmaceutical manufacturing, focusing on reliable data ingestion from legacy systems into modern architectures.
+- Managed the technical lifecycle of the InfoLog product suite, implementing five architectural updates to improve data ingestion performance with zero production downtime.
+- Architected robust data pipelines ensuring high availability, auditability, and integrity for mission-critical manufacturing records.
+- Led technical integration projects for enterprise customers, optimizing data interoperability and schema mapping across heterogeneous data environments.
 
 ### **Pharmaceutical Engineer, Aphena Pharma Solutions** | Maryland, USA *(Jan 2020 – Feb 2021)*  
-**Process Validation & System Commissioning**
-- Authored 30+ validation protocols and executed Installation Qualification (IQ) and Operational Qualification (OQ) for automated manufacturing systems
-- Successfully commissioned 8+ automated production systems including cartoning, filling, labeling, and blending equipment
-- Led process validation initiatives optimizing production workflows for enhanced efficiency and cost reduction
-- Ensured full regulatory compliance with FDA and cGMP requirements throughout project lifecycle
+**Process Engineering & Data Analysis**
+- Engineered automated production systems, ensuring precise data synchronization between hardware controllers and monitoring software.
+- Authored 30+ technical protocols to certify system and data performance against stringent industry and regulatory standards.
+- Analyzed production datasets using statistical methods to identify throughput bottlenecks and optimize manufacturing data flows.
+
+---
+
+## [Technical Focus: Data Engineering]
+
+*   **ETL Architecture:** Experience building ingestion and processing scripts for complex, multi-modal datasets (DICOM, sensor logs).
+*   **Pipeline Reliability:** Strong focus on building fault-tolerant data movement systems that ensure 100% data auditability and integrity.
+*   **Performance Engineering:** Developing backend tools that analyze and optimize system behavior for maximum data throughput.
 
 ---
 
 ## Technical Expertise
 
-**Programming Languages:** Python, SQL, automation scripting  
-**Engineering Standards:** IEC 62304, IEC 60601-1, FDA 21 CFR Part 820, cGMP  
-**Project Management:** Agile methodologies, requirements analysis, validation protocols  
-**Quality Systems:** Design controls, risk management (ISO 14971), verification and validation  
-**Technical Documentation:** Test protocols, technical reports, regulatory submissions
+**Programming Languages:** Python, SQL, C#, automation scripting  
+**Data Engineering & Infrastructure:** Docker, Jenkins, GitHub Actions, ETL Design, Schema Mapping  
+**Project Management:** Agile methodologies, requirements analysis, technical documentation  
+**Data Standards:** DICOM, 21 CFR Part 11, Data Integrity Frameworks  
+**System Analysis:** Performance telemetry, root-cause analysis, statistical process control
 
 ---
 
