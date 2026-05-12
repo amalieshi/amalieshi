@@ -42,7 +42,7 @@ Data Engineer specializing in the design and implementation of reliable data pip
 
 ---
 
-## [Technical Focus: Data Engineering]
+## Technical Focus: Data Engineering
 
 *   **ETL Architecture:** Experience building ingestion and processing scripts for complex, multi-modal datasets (DICOM, sensor logs).
 *   **Pipeline Reliability:** Strong focus on building fault-tolerant data movement systems that ensure 100% data auditability and integrity.
