@@ -1,7 +1,9 @@
-I am a Software and Data-Driven Engineer with a focus on building reliable backend architectures and automated data tools. With a strong engineering foundation from Georgia Tech and Johns Hopkins, I specialize in translating complex, domain-specific requirements—particularly in medical imaging and regulated systems—into maintainable software solutions and data pipelines.
+I am an SDET at Medtronic Digital Surgery, with a focus on test automation engineering, scalable verification frameworks, and quality across software used in regulated healthcare environments.
 
-Currently, I am expanding my expertise in C# and the .NET ecosystem to complement my extensive experience in Python-based automation. My approach is grounded in 'Engineering Rigor'—leveraging systemic quality frameworks (PMP, Six Sigma) to ensure that the systems I build are not only performant but also highly reliable and auditable.
+My experience spans Python-based test automation, UI workflow testing, DICOM conformance verification, continuous integration, and medical-device validation under standards such as IEC 62304. I am certified as an ISTQB Certified Test Automation Engineer (CTAL-TAE), and I bring a data-driven, risk-based approach to improving test coverage, repeatability, and defect detection.
+
+With an engineering foundation from Georgia Tech and Johns Hopkins, I combine hands-on automation expertise with PMP and Six Sigma practices to help engineering teams deliver reliable, auditable, and high-quality digital surgery solutions.
 
 Portfolio & Contact
 Website: https://amalieshi.github.io/amalie_projects
-Email: amalie.shi.jhmi@gmail.com
+Email: amalie.shi@medtronic.com

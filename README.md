@@ -1,12 +1,14 @@
-# Amalie Shi - Data & Software Engineer
+# Amalie Shi - SDET | Test Automation Engineer
 
-**Data Engineering Professional | Pipeline Architect | Medical Device Systems | [Google Developer](https://g.dev/amalieshi)**
+**Test Automation Engineering | Medical Device Systems | Scalable Verification | [Google Developer](https://g.dev/amalieshi)**
 
 ---
 
 ## Professional Profile
 
-Data Engineer specializing in the design and implementation of reliable data pipelines and backend architectures for high-stakes industries (MedTech/Pharma). Expertise in architecting Python-based ETL processes, managing complex datasets (DICOM), and building robust software tools that ensure data flow and system integrity. Focused on bridging the gap between specialized domain data and scalable, modern data engineering infrastructures.
+SDET at Medtronic Digital Surgery, specialising in test automation engineering for regulated healthcare software. ISTQB Certified Test Automation Engineer (CTAL-TAE) with experience designing scalable verification frameworks, automating UI workflows, validating DICOM interoperability, and integrating continuous testing into medical-device software delivery.
+
+Combines hands-on Python and C# automation expertise with biomedical engineering, IEC 62304, PMP, and Six Sigma experience to improve test coverage, defect detection, traceability, and product quality across complex systems.
 
 ### Core Technical Competencies
 
@@ -20,14 +22,21 @@ Data Engineer specializing in the design and implementation of reliable data pip
 
 ## Professional Experience
 
-### **Software Engineer, Adaptix Ltd.** | Oxford, UK *(Oct 2022 – Present)*  
-**Data Systems & Imaging Pipelines**
-- Developed a suite of 15+ Python-based data processing and diagnostic tools, utilizing concurrent processing to optimize system calibration data analysis workflows.
-- Engineered automated data verification pipelines for software/hardware interfaces, resolving 45+ critical data-flow issues within imaging systems.
-- Designed and maintained scalable data infrastructure ensuring high reliability and integrity for specialized veterinary and orthopedic imaging datasets.
-- Created modular data visualization and telemetry tools to monitor system performance and data throughput for cross-functional engineering teams.
+### **Software Development Engineer in Test, Medtronic Digital Surgery** | London, UK *(Nov 2026 – Present)*
+**Test Automation & Digital Surgery Quality**
+- Design and maintain automated test solutions for digital surgery software in a regulated medical-device environment.
+- Develop reusable test frameworks and verification workflows to improve coverage, repeatability, and regression detection.
+- Collaborate with software, quality, and cross-functional engineering teams across the software lifecycle.
+- Investigate defects, automate verification activities, and contribute to traceable release-quality evidence.
+- Support continuous integration and quality practices aligned with applicable medical-device standards and processes.
 
-### **Software Engineer, Informetric Systems Inc.** | New Jersey, USA *(Feb 2021 – Aug 2022)*  
+### **Software Test Engineer, Adaptix Ltd.** | Oxford, UK *(Oct 2022 – Oct 2026)*
+**Medical Device Verification & Test Automation**
+- Owned beta-to-release verification: authored 20 approved design history file documents with full Jama requirements traceability, including an 81-item UI specification, and executed 220 release 1.0.0.5 tests across UI, embedded OS, service tooling, enterprise gateway, system, and security.
+- Built a Python/pytest Page Object Model framework running 47 hardware-in-the-loop UI tests with automated power cycling and HTML evidence; designed a five-year durability programme that completed 39,000+ acquisitions across three orientations with zero failures or mechanical degradation.
+- Verified RIS/PACS workflows (Modality Worklist, MPPS, RDSR, C-STORE, Storage Commitment, TLS) and PC hardening (encryption, secure boot, firewall, access control, audit logging); identified DICOM, access-control, and IEC 60601-1 documentation defects before release.
+
+### **Software Applications Engineer, Informetric Systems Inc.** | New Jersey, USA *(Feb 2021 – Aug 2022)*
 **Data Integration & Manufacturing Pipelines**
 - Designed and deployed end-to-end data automation solutions for pharmaceutical manufacturing, focusing on reliable data ingestion from legacy systems into modern architectures.
 - Managed the technical lifecycle of the InfoLog product suite, implementing five architectural updates to improve data ingestion performance with zero production downtime.
@@ -60,16 +69,24 @@ Data Engineer specializing in the design and implementation of reliable data pip
 
 ---
 
+## Certifications
+
+- **[Project Management Professional (PMP)](certifications/Qualifications_Amalie_Shi_PMP_Certification.pdf)** — Project Management Institute (2025)
+- **[ISTQB Certified Tester Advanced Level – Test Automation Engineer (CTAL-TAE)](certifications/Qualifications_Amalie_Shi_ISTQB_Certified_Tester_Advanced_Level_Test_Automation_Engineer_v2.0.pdf)** — International Software Testing Qualifications Board (ISTQB, 2025)
+- **[ISTQB Certified Tester Foundation Level v4.0 (CTFL)](certifications/Qualifications_Amalie_Shi_ISTQB_Certified_Tester_Foundation_Level_v4.0.pdf)** — International Software Testing Qualifications Board (ISTQB, 2024)
+- **[Engineer-In-Training (EIT), Chemical Engineering Discipline](certifications/Qualifications_Amalie_Shi_Engineer_in_training.pdf)** — Maryland State Board for Professional Engineers (2021)
+- **[Certified Six Sigma Yellow Belt (CSSYB)](certifications/Qualifications_Amalie_Shi_Six_Sigma.pdf)** — American Society for Quality (ASQ, 2020)
+
 ## Education & Background
 
-**Geographic Experience:** Shenzhen, China | Atlanta & Baltimore, USA | Oxford, UK  
+**Geographic Experience:** Shenzhen, China | Atlanta & Baltimore & New York City, USA | Oxford and London, UK  
 **Cross-Cultural Engineering:** International project delivery and regulatory compliance experience
 
 ---
 
 ## Contact Information
 
-**Email:** [amalie.shi.jhmi@gmail.com](mailto:amalie.shi.jhmi@gmail.com)  
+**Email:** [amalie.shi@medtronic.com](mailto:amalie.shi@medtronic.com)  
 **LinkedIn:** [linkedin.com/in/amalieshi](https://linkedin.com/in/amalieshi)  
 **Google Developer:** [g.dev/amalieshi](https://g.dev/amalieshi)  
 **Portfolio:** [https://amalieshi.github.io/](https://amalieshi.github.io/)
